@@ -26,3 +26,7 @@ View interactive maps of geo-tagged marine protected areas (MPAs), sanctuaries, 
 </p>
 
 <img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/AquaLex%20-%20Dashboard.png" alt="Logo" />
+
+## Researcher/Developer:
+
+<li>Laurence Paul G. Quiniano</li>
