@@ -30,22 +30,22 @@ View interactive maps of geo-tagged marine protected areas (MPAs), sanctuaries, 
 ## Details
 
 <p><strong>Researcher/Developer</strong></p>
-<li>Laurence Paul G. Quiniano</li>
+<p><li>Laurence Paul G. Quiniano</li></p>
 
 <p><strong>School</strong></p>
-<li>Eulogio "Amang" Rodriguez Institute of Science and Technology</li>
+<p><li>Eulogio "Amang" Rodriguez Institute of Science and Technology</li></p>
 
 <p><strong>Course</strong></p>
-<li>Bachelor of Science in Information Technology</li>
+<p><li>Bachelor of Science in Information Technology</li></p>
 
 <p><strong>Year</strong></p>
-<li>3rd year</li>
+<p><li>3rd year</li></p>
 
 <p><strong>Section</strong></p>
-<li>C</li>
+<p><li>C</li></p>
 
 <p><strong>Subject</strong></p>
-<li>Mobile Application</li>
+<p><li>Mobile Application</li></p>
 
 <p><strong>Adviser</strong></p>
-<li>Prof. Jefferson A. Costales</li>
+<p><li>Prof. Jefferson A. Costales</li></p>
