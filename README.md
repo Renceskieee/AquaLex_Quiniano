@@ -1,16 +1,25 @@
-# aqualex
 
-A new Flutter project.
+# AquaLex
 
-## Getting Started
+👨 Created by: Quiniano, Laurence Paul G.
 
-This project is a starting point for a Flutter application.
+💻 Course: Bachelor of Science in Information Technology
 
-A few resources to get you started if this is your first Flutter project:
+📱 Subject: Mobile Application
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📅 Year: 3rd Year
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🖊 Section: C
+
+🏫 School: Eulogio "Amang" Rodriguez Institute of Science and Technology
+
+👨‍🏫 Professor: Jefferson A. Costales
+
+
+
+
+
+
+![Logo](https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/images/AquaLex_Logo.png)
+
+ℹ AquaLex is a comprehensive mobile almanac of local marine species in the Philippines, providing fishers, students, environmentalists, and hobbyists with vital information on fish identification, legal fishing guidelines, and conservation data.
