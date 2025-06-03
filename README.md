@@ -10,7 +10,7 @@ AquaLex is a mobile almanac of Philippine marine life, offering detailed species
 
 <p><strong>📘 Marine Species Almanac</strong></p>
 <p align="justify">
-A digital encyclopedia of Philippine marine species with details like legal catch sizes, local names, habitat, and conservation status—perfect for students, researchers, and fishers.
+A digital encyclopedia of Philippine marine species with details like legal catch sizes, local names, habitat, and conservation status.
 </p>
 <p><strong>📷 Species ID Scanner</strong></p>
 <p align="justify">
