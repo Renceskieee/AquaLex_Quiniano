@@ -1,7 +1,7 @@
 
 # AquaLex
 
-👨 Created by: Quiniano, Laurence Paul G.
+👨 <bold>Created by:</bold> Quiniano, Laurence Paul G.
 
 💻 Course: Bachelor of Science in Information Technology
 
