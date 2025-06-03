@@ -8,4 +8,4 @@ AquaLex is a mobile almanac of Philippine marine life, offering detailed species
 
 ## Description
 
-<img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/AquaLex%20-%20Dashboard.jpg" width="400" alt="Logo" />
+<img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/AquaLex%20-%20Dashboard.png" alt="Logo" />
