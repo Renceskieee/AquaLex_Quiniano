@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 import 'nfz.dart';
+import 'msa.dart';
+import 'bc.dart';
+import 'sis.dart';
 
 class Dashboard extends StatelessWidget {
   const Dashboard({super.key});
@@ -33,7 +36,7 @@ class Dashboard extends StatelessWidget {
             ),
           ),
           Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 20.0, vertical: 40.0),
+            padding: const EdgeInsets.symmetric(horizontal: 20.0, vertical: 30.0),
             child: ListView(
               shrinkWrap: true,
               physics: const ClampingScrollPhysics(),
@@ -42,6 +45,10 @@ class Dashboard extends StatelessWidget {
                   iconPath: 'assets/icons/book.png',
                   text: 'Marine Species Almanac',
                   onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (context) => MSAScreen()),
+                    );
                   },
                 ),
                 const SizedBox(height: 20.0),
@@ -49,6 +56,10 @@ class Dashboard extends StatelessWidget {
                   iconPath: 'assets/icons/camera.png',
                   text: 'Species ID Scanner',
                   onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (context) => SISScreen()),
+                    );
                   },
                 ),
                 const SizedBox(height: 20.0),
@@ -56,6 +67,10 @@ class Dashboard extends StatelessWidget {
                   iconPath: 'assets/icons/calendar.png',
                   text: 'Breeding Calendar',
                   onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (context) => BCScreen()),
+                    );
                   },
                 ),
                 const SizedBox(height: 20.0),
@@ -69,7 +84,7 @@ class Dashboard extends StatelessWidget {
                     );
                   },
                 ),
-                const SizedBox(height: 380.0),
+                const SizedBox(height: 350.0),
               ],
             ),
           ),

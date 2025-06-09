@@ -1,9 +1,14 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'screen/dashboard.dart';
+import 'package:hive_flutter/hive_flutter.dart';
+import 'model/marine_species.dart';
 
-void main() {
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  await Hive.initFlutter();
+  Hive.registerAdapter(MarineSpeciesAdapter());
+  await Hive.openBox<MarineSpecies>('marine_species');
   runApp(const MyApp());
 }
 

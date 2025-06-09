@@ -1,0 +1,100 @@
+photoPath,scientificName,localName,group,habitat,averageSize,threatLevel,legalCatchSize,closedSeason,gearRestriction
+assets/images/bangus.jpg,Chanos chanos,Bangus (Milkfish),Fish,"Coastal, brackish, marine",1 meter,Least Concern,30 cm,None,None
+assets/images/tilapia.jpg,Oreochromis niloticus,Tilapia,Fish,"Freshwater, brackish",30 cm,Least Concern,None,None,None
+assets/images/galunggong.jpg,Decapterus macarellus,Galunggong (Round Scad),Fish,"Marine, pelagic",25 cm,Least Concern,None,None,None
+assets/images/lapu_lapu.jpg,Epinephelus coioides,Lapu-Lapu (Grouper),Fish,Reef-associated,60 cm,Near Threatened,32 cm,June-August,"Spear, hook and line"
+assets/images/tamban.jpg,Sardinella tawilis,Tamban (Sardine),Fish,"Marine, pelagic",15 cm,Endangered,None,December-February,None
+assets/images/alimasag.jpg,Portunus pelagicus,Alimasag (Blue Swimming Crab),Crustacean,"Coastal, estuarine",20 cm,Least Concern,10.2 cm carapace width,October-December,No gravid females
+assets/images/alimango.jpg,Scylla serrata,Alimango (Mud Crab),Crustacean,"Mangrove, estuarine",25 cm,Least Concern,12 cm carapace width,October-December,No gravid females
+assets/images/hipon.jpg,Penaeus monodon,Hipon (Tiger Prawn),Crustacean,"Coastal, estuarine",33 cm,Least Concern,None,None,None
+assets/images/tahong.jpg,Perna viridis,Tahong (Green Mussel),Mollusk,"Brackish, marine",10 cm,Least Concern,None,None,None
+assets/images/talaba.jpg,Crassostrea iredalei,Talaba (Oyster),Mollusk,"Brackish, marine",15 cm,Least Concern,None,None,None
+assets/images/lato.jpg,Ulva lactuca,Lato (Sea Grapes),Algae,Marine,10 cm,Least Concern,None,None,None
+assets/images/sea_cucumber.jpg,Holothuria scabra,Sea Cucumber,Echinoderm,Marine,30 cm,Vulnerable,None,May-July,None
+assets/images/giant_clam.jpg,Tridacna gigas,Giant Clam,Mollusk,Reef,120 cm,Vulnerable,None,Year-round,Protected species
+assets/images/napoleon_wrasse.jpg,Cheilinus undulatus,Maori Wrasse,Fish,Reef,200 cm,Endangered,None,Year-round,Protected species
+assets/images/blue_spotted_ray.jpg,Neotrygon kuhlii,Blue-spotted Ray,Fish,Reef,70 cm,Near Threatened,None,None,None
+assets/images/angel_fish.jpg,Pterophyllum scalare,Angel Fish,Fish,Reef,15 cm,Least Concern,None,None,None
+assets/images/box_jellyfish.jpg,Chironex fleckeri,Box Jellyfish,Cnidarian,Marine,30 cm,Not Evaluated,None,None,None
+assets/images/sea_urchin.jpg,Tripneustes gratilla,Sea Urchin,Echinoderm,Reef,10 cm,Least Concern,None,None,None
+assets/images/sea_horse.jpg,Hippocampus kuda,Sea Horse,Fish,Seagrass,15 cm,Vulnerable,None,May-July,None
+assets/images/reef_shark.jpg,Carcharhinus melanopterus,Blacktip Reef Shark,Fish,Reef,180 cm,Near Threatened,None,Year-round,Protected species
+assets/images/abalone.jpg,Haliotis asinina,Abalone,Mollusk,Reef,10 cm,Endangered,None,Year-round,Protected species
+assets/images/blue_marlin.jpg,Makaira nigricans,Blue Marlin,Fish,Open ocean,400 cm,Least Concern,150 cm,None,None
+assets/images/barracuda.jpg,Sphyraena barracuda,Barracuda,Fish,Reef,200 cm,Least Concern,50 cm,None,None
+assets/images/bonito.jpg,Sarda orientalis,Bonito,Fish,Open ocean,100 cm,Least Concern,None,None,None
+assets/images/batfish.jpg,Platax orbicularis,Batfish,Fish,Reef,50 cm,Least Concern,None,None,None
+assets/images/butterflyfish.jpg,Chaetodon auriga,Butterflyfish,Fish,Reef,23 cm,Least Concern,None,None,None
+assets/images/catfish.jpg,Arius manillensis,Catfish,Fish,Estuarine,40 cm,Least Concern,None,None,None
+assets/images/cuttlefish.jpg,Sepia latimanus,Cuttlefish,Mollusk,Reef,50 cm,Least Concern,None,None,None
+assets/images/damsel.jpg,Abudefduf vaigiensis,Damselfish,Fish,Reef,15 cm,Least Concern,None,None,None
+assets/images/dolphin.jpg,Delphinus delphis,Dolphin,Mammal,Open ocean,250 cm,Least Concern,None,Year-round,Protected species
+assets/images/eel.jpg,Gymnothorax javanicus,Moray Eel,Fish,Reef,300 cm,Least Concern,None,None,None
+assets/images/emperor.jpg,Lethrinus nebulosus,Emperor Fish,Fish,Reef,60 cm,Least Concern,None,None,None
+assets/images/flying_fish.jpg,Exocoetus volitans,Flying Fish,Fish,Open ocean,30 cm,Least Concern,None,None,None
+assets/images/goby.jpg,Amblygobius phalaena,Goby,Fish,Reef,15 cm,Least Concern,None,None,None
+assets/images/hammerhead.jpg,Sphyrna lewini,Hammerhead Shark,Fish,Open ocean,400 cm,Critically Endangered,None,Year-round,Protected species
+assets/images/hawkfish.jpg,Paracirrhites forsteri,Hawkfish,Fish,Reef,22 cm,Least Concern,None,None,None
+assets/images/herring.jpg,Sardinella gibbosa,Herring,Fish,Marine,20 cm,Least Concern,None,None,None
+assets/images/jack.jpg,Caranx ignobilis,Jack (Trevally),Fish,Reef,170 cm,Least Concern,None,None,None
+assets/images/lionfish.jpg,Pterois volitans,Lionfish,Fish,Reef,38 cm,Least Concern,None,None,None
+assets/images/mackerel.jpg,Scomberomorus commerson,Mackerel,Fish,Open ocean,240 cm,Least Concern,24 cm,None,None
+assets/images/manta_ray.jpg,Manta birostris,Manta Ray,Fish,Open ocean,700 cm,Vulnerable,None,Year-round,Protected species
+assets/images/mudskipper.jpg,Periophthalmus argentilineatus,Mudskipper,Fish,Mangrove,20 cm,Least Concern,None,None,None
+assets/images/mullet.jpg,Mugil cephalus,Mullet,Fish,Coastal,60 cm,Least Concern,None,None,None
+assets/images/mullet2.jpg,Liza vaigiensis,Striped Mullet,Fish,Coastal,40 cm,Least Concern,None,None,None
+assets/images/mullet3.jpg,Valamugil seheli,Bluespot Mullet,Fish,Coastal,50 cm,Least Concern,None,None,None
+assets/images/mussel.jpg,Mytilus edulis,Blue Mussel,Mollusk,Marine,10 cm,Least Concern,None,None,None
+assets/images/octopus.jpg,Octopus vulgaris,Octopus,Mollusk,Reef,25 cm,Least Concern,None,None,None
+assets/images/parrotfish.jpg,Scarus ghobban,Parrotfish,Fish,Reef,40 cm,Least Concern,None,None,None
+assets/images/perch.jpg,Lates calcarifer,Asian Sea Bass,Fish,Coastal,180 cm,Least Concern,30 cm,None,None
+assets/images/pufferfish.jpg,Tetraodon nigroviridis,Pufferfish,Fish,Reef,17 cm,Least Concern,None,None,None
+assets/images/rabbitfish.jpg,Siganus canaliculatus,Rabbitfish,Fish,Reef,40 cm,Least Concern,None,None,None
+assets/images/salmon.jpg,Oncorhynchus tshawytscha,Salmon,Fish,Open ocean,150 cm,Least Concern,None,None,None
+assets/images/sardine.jpg,Sardinella longiceps,Sardine,Fish,Marine,20 cm,Least Concern,None,December-February,None
+assets/images/scad.jpg,Decapterus russelli,Scad,Fish,Marine,25 cm,Least Concern,None,None,None
+assets/images/scallop.jpg,Chlamys nobilis,Scallop,Mollusk,Marine,10 cm,Least Concern,None,None,None
+assets/images/seabass.jpg,Centropristis striata,Black Sea Bass,Fish,Reef,60 cm,Least Concern,None,None,None
+assets/images/seahorse.jpg,Hippocampus comes,Common Seahorse,Fish,Seagrass,15 cm,Vulnerable,None,May-July,None
+assets/images/squid.jpg,Loligo duvauceli,Squid,Mollusk,Marine,30 cm,Least Concern,None,None,None
+assets/images/starfish.jpg,Protoreaster nodosus,Starfish,Echinoderm,Reef,30 cm,Least Concern,None,None,None
+assets/images/surgeonfish.jpg,Acanthurus triostegus,Surgeonfish,Fish,Reef,26 cm,Least Concern,None,None,None
+assets/images/swordfish.jpg,Xiphias gladius,Swordfish,Fish,Open ocean,455 cm,Least Concern,150 cm,None,None
+assets/images/tarpon.jpg,Megalops cyprinoides,Indo-Pacific Tarpon,Fish,Coastal,150 cm,Least Concern,None,None,None
+assets/images/trevally.jpg,Caranx sexfasciatus,Bigeye Trevally,Fish,Reef,120 cm,Least Concern,None,None,None
+assets/images/tuna.jpg,Thunnus albacares,Yellowfin Tuna,Fish,Open ocean,239 cm,Near Threatened,70 cm,July-September,None
+assets/images/turtle.jpg,Chelonia mydas,Green Sea Turtle,Reptile,Marine,120 cm,Endangered,None,Year-round,Protected species
+assets/images/urchin.jpg,Diadema setosum,Long-spined Sea Urchin,Echinoderm,Reef,10 cm,Least Concern,None,None,None
+assets/images/wrasse.jpg,Thalassoma lunare,Moon Wrasse,Fish,Reef,25 cm,Least Concern,None,None,None
+assets/images/zebra_fish.jpg,Danio rerio,Zebra Fish,Fish,Freshwater,6 cm,Least Concern,None,None,None
+assets/images/clam.jpg,Tridacna maxima,Maxima Clam,Mollusk,Reef,40 cm,Least Concern,None,Year-round,Protected species
+assets/images/cone_snail.jpg,Conus magus,Cone Snail,Mollusk,Reef,10 cm,Least Concern,None,None,None
+assets/images/coral1.jpg,Acropora millepora,Staghorn Coral,Coral,Reef,50 cm,Near Threatened,None,Year-round,Protected species
+assets/images/coral2.jpg,Porites lobata,Lobe Coral,Coral,Reef,100 cm,Least Concern,None,Year-round,Protected species
+assets/images/coral3.jpg,Pocillopora damicornis,Cauliflower Coral,Coral,Reef,30 cm,Least Concern,None,Year-round,Protected species
+assets/images/coral4.jpg,Montipora digitata,Finger Coral,Coral,Reef,40 cm,Least Concern,None,Year-round,Protected species
+assets/images/coral5.jpg,Seriatopora hystrix,Bird's Nest Coral,Coral,Reef,30 cm,Least Concern,None,Year-round,Protected species
+assets/images/coral6.jpg,Favia favus,Brain Coral,Coral,Reef,60 cm,Least Concern,None,Year-round,Protected species
+assets/images/coral7.jpg,Platygyra daedalea,Labyrinth Coral,Coral,Reef,80 cm,Least Concern,None,Year-round,Protected species
+assets/images/coral8.jpg,Turbinaria reniformis,Yellow Scroll Coral,Coral,Reef,50 cm,Least Concern,None,Year-round,Protected species
+assets/images/coral9.jpg,Galaxea fascicularis,Galaxy Coral,Coral,Reef,40 cm,Least Concern,None,Year-round,Protected species
+assets/images/coral10.jpg,Stylophora pistillata,Cat's Paw Coral,Coral,Reef,30 cm,Least Concern,None,Year-round,Protected species
+assets/images/abalone2.jpg,Haliotis ovina,Sheep's Ear Abalone,Mollusk,Reef,8 cm,Least Concern,None,Year-round,Protected species
+assets/images/abalone3.jpg,Haliotis glabra,Glassy Abalone,Mollusk,Reef,7 cm,Least Concern,None,Year-round,Protected species
+assets/images/abalone4.jpg,Haliotis varia,Variable Abalone,Mollusk,Reef,6 cm,Least Concern,None,Year-round,Protected species
+assets/images/abalone5.jpg,Haliotis planata,Planate Abalone,Mollusk,Reef,5 cm,Least Concern,None,Year-round,Protected species
+assets/images/abalone6.jpg,Haliotis squamata,Scaly Abalone,Mollusk,Reef,4 cm,Least Concern,None,Year-round,Protected species
+assets/images/abalone7.jpg,Haliotis diversicolor,Various Abalone,Mollusk,Reef,6 cm,Least Concern,None,Year-round,Protected species
+assets/images/abalone8.jpg,Haliotis asinina,Ass's Ear Abalone,Mollusk,Reef,10 cm,Endangered,None,Year-round,Protected species
+assets/images/abalone9.jpg,Haliotis laevigata,Smooth Abalone,Mollusk,Reef,12 cm,Least Concern,None,Year-round,Protected species
+assets/images/abalone10.jpg,Haliotis midae,South African Abalone,Mollusk,Reef,20 cm,Endangered,None,Year-round,Protected species
+assets/images/clam2.jpg,Tridacna crocea,Crocea Clam,Mollusk,Reef,15 cm,Least Concern,None,Year-round,Protected species
+assets/images/clam3.jpg,Tridacna squamosa,Fluted Giant Clam,Mollusk,Reef,40 cm,Least Concern,None,Year-round,Protected species
+assets/images/clam4.jpg,Tridacna derasa,Smooth Giant Clam,Mollusk,Reef,60 cm,Least Concern,None,Year-round,Protected species
+assets/images/clam5.jpg,Tridacna noae,Noah's Giant Clam,Mollusk,Reef,35 cm,Least Concern,None,Year-round,Protected species
+assets/images/clam6.jpg,Tridacna rosewateri,Rosewater's Giant Clam,Mollusk,Reef,30 cm,Least Concern,None,Year-round,Protected species
+assets/images/clam7.jpg,Tridacna mbalavuana,Mbalavuana Giant Clam,Mollusk,Reef,25 cm,Least Concern,None,Year-round,Protected species
+assets/images/clam10.jpg,Hippopus hippopus,Hippopus Clam,Mollusk,Reef,60 cm,Least Concern,None,Year-round,Protected species
+assets/images/clam11.jpg,Hippopus porcellanus,Porcelain Clam,Mollusk,Reef,50 cm,Least Concern,None,Year-round,Protected species
+assets/images/clam13.jpg,Tridacna squamosina,Squamosina Clam,Mollusk,Reef,30 cm,Least Concern,None,Year-round,Protected species
+assets/images/clam14.jpg,Tridacna costata,Costata Clam,Mollusk,Reef,20 cm,Least Concern,None,Year-round,Protected species
