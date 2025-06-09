@@ -33,7 +33,7 @@ View interactive maps of geo-tagged marine protected areas (MPAs), sanctuaries, 
 
 <p><strong>School:</strong> Eulogio "Amang" Rodriguez Institute of Science and Technology </p>
 
-<p><strong>Course:</strong> Bachelor of Science in Information Technology </p>
+<p><strong>Program:</strong> Bachelor of Science in Information Technology </p>
 
 <p><strong>Year:</strong> 3rd year </p>
 

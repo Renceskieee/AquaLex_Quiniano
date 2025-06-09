@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'nfz.dart';
 
 class Dashboard extends StatelessWidget {
   const Dashboard({super.key});
@@ -62,9 +63,13 @@ class Dashboard extends StatelessWidget {
                   iconPath: 'assets/icons/compass.png',
                   text: 'No-Fishing Zones',
                   onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (context) => NFZScreen()),
+                    );
                   },
                 ),
-                const SizedBox(height: 280.0),
+                const SizedBox(height: 380.0),
               ],
             ),
           ),
