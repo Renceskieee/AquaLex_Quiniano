@@ -2,8 +2,7 @@ photoPath,scientificName,localName,group,habitat,averageSize,threatLevel,legalCa
 assets/images/bangus.jpg,Chanos chanos,Bangus (Milkfish),Fish,"Coastal, brackish, marine",1 meter,Least Concern,30 cm,None,None
 assets/images/tilapia.jpg,Oreochromis niloticus,Tilapia,Fish,"Freshwater, brackish",30 cm,Least Concern,None,None,None
 assets/images/galunggong.jpg,Decapterus macarellus,Galunggong (Round Scad),Fish,"Marine, pelagic",25 cm,Least Concern,None,None,None
-assets/images/lapu_lapu.jpg,Epinephelus coioides,Lapu-Lapu (Grouper),Fish,Reef-associated,60 cm,Near Threatened,32 cm,June-August,"Spear, hook and line"
-assets/images/tamban.jpg,Sardinella tawilis,Tamban (Sardine),Fish,"Marine, pelagic",15 cm,Endangered,None,December-February,None
+assets/images/lapu_lapu.jpg,Epinephelus coioides,Lapu-Lapu (Grouper),Fish,Reef-associated,60 cm,Near Threatened,32 cm,June-August,Spear and hook
 assets/images/alimasag.jpg,Portunus pelagicus,Alimasag (Blue Swimming Crab),Crustacean,"Coastal, estuarine",20 cm,Least Concern,10.2 cm carapace width,October-December,No gravid females
 assets/images/alimango.jpg,Scylla serrata,Alimango (Mud Crab),Crustacean,"Mangrove, estuarine",25 cm,Least Concern,12 cm carapace width,October-December,No gravid females
 assets/images/hipon.jpg,Penaeus monodon,Hipon (Tiger Prawn),Crustacean,"Coastal, estuarine",33 cm,Least Concern,None,None,None

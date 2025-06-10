@@ -27,7 +27,7 @@ class _NFZScreenState extends State<NFZScreen> {
       lat: 12.61290135,
       lng: 124.4120397072083,
       address: 'Biri, Northern Samar, Philippines',
-      imagePath: 'assets/images/Biri_LaRoSaProtectedLandscapeandSeascape.jpg',
+      imagePath: 'assets/images/Biri‑LaRoSaProtectedLandscapeandSeascape.jpg',
     ),
     Place(
       name: 'Bulusan Volcano',

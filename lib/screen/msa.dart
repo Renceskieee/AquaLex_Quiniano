@@ -7,7 +7,10 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'package:csv/csv.dart';
 
 class MSAScreen extends StatefulWidget {
-  const MSAScreen({super.key});
+  final MarineSpecies? initialSpecies;
+  final bool isModal;
+
+  const MSAScreen({super.key, this.initialSpecies, this.isModal = false});
 
   @override
   State<MSAScreen> createState() => _MSAScreenState();
@@ -21,7 +24,13 @@ class _MSAScreenState extends State<MSAScreen> {
   @override
   void initState() {
     super.initState();
-    _initializeData();
+    if (widget.initialSpecies != null) {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        _showSpeciesModal(context, widget.initialSpecies!);
+      });
+    } else {
+      _initializeData();
+    }
   }
 
   Future<void> _initializeData() async {
@@ -60,6 +69,46 @@ class _MSAScreenState extends State<MSAScreen> {
 
   @override
   Widget build(BuildContext context) {
+    if (widget.initialSpecies != null && !widget.isModal) {
+      return Scaffold(
+        appBar: AppBar(
+          backgroundColor: const Color.fromRGBO(78, 215, 241, 1),
+          iconTheme: const IconThemeData(color: Colors.white),
+          title: Stack(
+            children: [
+              Text(
+                'Marine Species Almanac',
+                style: TextStyle(
+                  fontFamily: 'Arturo',
+                  fontWeight: FontWeight.bold,
+                  fontSize: 20,
+                  foreground: Paint()
+                    ..style = PaintingStyle.stroke
+                    ..strokeWidth = 2
+                    ..color = Colors.black,
+                ),
+              ),
+              const Text(
+                'Marine Species Almanac',
+                style: TextStyle(
+                  fontFamily: 'Arturo',
+                  fontWeight: FontWeight.bold,
+                  fontSize: 20,
+                  color: Colors.white,
+                ),
+              ),
+            ],
+          ),
+          centerTitle: true,
+        ),
+        body: SpeciesModal(species: widget.initialSpecies!),
+      );
+    }
+
+    if (widget.isModal) {
+      return SpeciesModal(species: widget.initialSpecies!);
+    }
+
     final filtered = _species.where((s) =>
       s.scientificName.toLowerCase().contains(_search.toLowerCase()) ||
       s.localName.toLowerCase().contains(_search.toLowerCase())
