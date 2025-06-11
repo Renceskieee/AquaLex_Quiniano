@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 import 'screen/dashboard.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'model/marine_species.dart';
+import 'models/marine_species.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

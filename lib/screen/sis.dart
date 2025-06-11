@@ -3,10 +3,9 @@
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:hive/hive.dart';
-import '../model/marine_species.dart';
+import '../models/marine_species.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:csv/csv.dart';
-import 'package:flutter/foundation.dart' show kIsWeb;
 import 'dart:typed_data';
 import '../modal/result.dart';
 
@@ -51,9 +50,7 @@ class _SISScreenState extends State<SISScreen> {
     final pickedFile = await picker.pickImage(source: source);
 
     if (pickedFile != null) {
-      if (kIsWeb) {
-        _imageBytes = await pickedFile.readAsBytes();
-      }
+      _imageBytes = await pickedFile.readAsBytes();
       _showResultModal(pickedFile, _imageBytes);
     }
   }
@@ -182,7 +179,7 @@ class _SISScreenState extends State<SISScreen> {
                 onTap: () => _pickImage(ImageSource.gallery),
                 child: Container(
                   decoration: BoxDecoration(
-                    color: const Color.fromRGBO(78, 215, 241, 0.9),
+                    color: const Color.fromRGBO(78, 215, 241, 1),
                     borderRadius: BorderRadius.circular(25.0),
                   ),
                   child: Center(

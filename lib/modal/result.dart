@@ -2,10 +2,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'dart:io';
-import 'package:flutter/foundation.dart' show kIsWeb;
 import 'dart:typed_data';
-import '../model/marine_species.dart';
+import '../models/marine_species.dart';
 import '../modal/species.dart';
 
 class ResultScreen extends StatefulWidget {
@@ -204,21 +202,14 @@ class _ResultScreenState extends State<ResultScreen> {
             const SizedBox(height: 16),
             ClipRRect(
               borderRadius: BorderRadius.circular(10),
-              child: kIsWeb
-                  ? (widget.imageBytes != null
-                      ? Image.memory(
-                          widget.imageBytes!,
-                          width: double.infinity,
-                          height: 200,
-                          fit: BoxFit.cover,
-                        )
-                      : const SizedBox.shrink())
-                  : Image.file(
-                      File(widget.image!.path),
+              child: widget.imageBytes != null
+                  ? Image.memory(
+                      widget.imageBytes!,
                       width: double.infinity,
                       height: 200,
                       fit: BoxFit.cover,
-                    ),
+                    )
+                  : const SizedBox.shrink(),
             ),
             const SizedBox(height: 16),
             Padding(

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import '../model/marine_species.dart';
+import '../models/marine_species.dart';
 import '../modal/species.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:csv/csv.dart';
@@ -171,7 +171,7 @@ class _MSAScreenState extends State<MSAScreen> {
                   final s = filtered[i];
                   return Container(
                     decoration: BoxDecoration(
-                      color: const Color.fromRGBO(78, 215, 241, 0.9),
+                      color: const Color.fromRGBO(78, 215, 241, 1),
                       borderRadius: BorderRadius.circular(15),
                     ),
                     child: ListTile(

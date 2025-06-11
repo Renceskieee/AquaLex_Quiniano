@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../model/marine_species.dart';
+import '../models/marine_species.dart';
 
 class SpeciesModal extends StatelessWidget {
   final MarineSpecies species;
