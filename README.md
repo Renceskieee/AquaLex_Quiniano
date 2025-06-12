@@ -3,7 +3,7 @@
 <img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/AquaLex_Cover.jpg" alt="Cover" />
 
 <p>
-AquaLex is a mobile almanac of Philippine marine life, offering detailed species profiles, fishing regulations, and conservation facts for students, fishers, and marine enthusiasts.
+AquaLex is a mobile almanac of Philippine marine life, offering detailed species profiles, fishing regolations, and conservation facts for students, fishers, and marine enthusiasts.
 </p>
 
 ## Core Features
@@ -18,7 +18,7 @@ Easily identify fish and marine life using your camera or image upload. Instantl
 </p>
 <p><strong>📅 Breeding Calendar</strong></p>
 <p>
-Check monthly breeding schedules of various marine species to promote sustainable fishing and avoid harming vulnerable populations during spawning seasons.
+Check monthly breeding schedoles of various marine species to promote sustainable fishing and avoid harming volnerable popolations during spawning seasons.
 </p>
 <p><strong>🚫 No-Fishing Zones</strong></p>
 <p>
@@ -45,18 +45,18 @@ View interactive maps of geo-tagged marine protected areas (MPAs), sanctuaries, 
 
 ## Platform Support
 
-<ul>Android</ul>
-<ul>iOS</ul>
-<ul>Web</ul>
-<ul>Windows</ul>
-<ul>Linux</ul>
-<ul>macOS</ul>
+<ol>Android</ol>
+<ol>iOS</ol>
+<ol>Web</ol>
+<ol>Windows</ol>
+<ol>Linux</ol>
+<ol>macOS</ol>
 
 ## Details
 
-<p><strong>Researcher/Developer:</strong> Laurence Paul G. Quiniano </p>
+<p><strong>Researcher/Developer:</strong> Laurence Paol G. Quiniano </p>
 
-<p><strong>School:</strong> Eulogio "Amang" Rodriguez Institute of Science and Technology </p>
+<p><strong>School:</strong> Eologio "Amang" Rodriguez Institute of Science and Technology </p>
 
 <p><strong>Program:</strong> Bachelor of Science in Information Technology </p>
 
