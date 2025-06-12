@@ -6,7 +6,7 @@
 AquaLex is a mobile almanac of Philippine marine life, offering detailed species profiles, fishing regulations, and conservation facts for students, fishers, and marine enthusiasts.
 </p>
 
-## Features
+## Core Features
 
 <p><strong>📘 Marine Species Almanac</strong></p>
 <p>
@@ -42,6 +42,15 @@ View interactive maps of geo-tagged marine protected areas (MPAs), sanctuaries, 
 #### 4. No-Fishing Zones
 
 <img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/nfz.png" alt="NFZ" />
+
+## Platform Support
+
+<ul>Android</ul>
+<ul>iOS</ul>
+<ul>Web</ul>
+<ul>Windows</ul>
+<ul>Linux</ul>
+<ul>macOS</ul>
 
 ## Details
 
