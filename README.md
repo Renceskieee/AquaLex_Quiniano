@@ -41,7 +41,7 @@ View interactive maps of geo-tagged marine protected areas (MPAs), sanctuaries, 
 
 #### 4. No-Fishing Zones
 
-<img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/nfs.png" alt="NFS" />
+<img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/nfz.png" alt="NFZ" />
 
 ## Details
 
