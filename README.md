@@ -1,6 +1,6 @@
 # AquaLex
 
-<img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/AquaLex%20-%20Cover.jpg" alt="Logo" />
+<img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/AquaLex_Cover.jpg" alt="Cover" />
 
 <p>
 AquaLex is a mobile almanac of Philippine marine life, offering detailed species profiles, fishing regulations, and conservation facts for students, fishers, and marine enthusiasts.
@@ -25,15 +25,23 @@ Check monthly breeding schedules of various marine species to promote sustainabl
 View interactive maps of geo-tagged marine protected areas (MPAs), sanctuaries, and no-fishing zones to help preserve biodiversity and avoid violations.
 </p>
 
-<img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/AquaLex%20-%20Dashboard.png" alt="Logo" />
+<img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/AquaLex_Dashboard.png" alt="Dashboard" />
 
 #### 1. Marine Species Almanac
 
-#### 2. Species ID Scanner 
+<img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/msa.png" alt="MSA" />
+
+#### 2. Species ID Scanner
+
+<img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/sis.png" alt="SIS" />
 
 #### 3. Breeding Calendar
 
+<img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/bc.png" alt="BC" />
+
 #### 4. No-Fishing Zones
+
+<img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/nfs.png" alt="NFS" />
 
 ## Details
 
