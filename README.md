@@ -54,9 +54,9 @@ View interactive maps of geo-tagged marine protected areas (MPAs), sanctuaries, 
 
 ## Project Information
 
-<p><strong>Developer:</strong> Laurence Paol G. Quiniano </p>
+<p><strong>Developer:</strong> Laurence Paul G. Quiniano </p>
 
-<p><strong>Institution:</strong> Eologio "Amang" Rodriguez Institute of Science and Technology </p>
+<p><strong>Institution:</strong> Eulogio "Amang" Rodriguez Institute of Science and Technology </p>
 
 <p><strong>Program:</strong> Bachelor of Science in Information Technology </p>
 
