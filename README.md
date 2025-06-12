@@ -55,12 +55,7 @@ View interactive maps of geo-tagged marine protected areas (MPAs), sanctuaries, 
 ## Demo Video
 
 🎥 **Watch the AquaLex Demo Video:**  
-[![AquaLex Demo Video](https://img.youtube.com/vi/NW0AEdISUxo/0.jpg)](https://youtu.be/NW0AEdISUxo?si=QPPNf5oHbQldsRP3)  
-*A 3-minute walkthrough showcasing the key features of AquaLex, the Philippines' Marine Life Species Almanac.*
-
-📺 **Subscribe to my YouTube Channel for more app demos and tech content:**  
-[Laurence Paul G. Quiniano (RencyQ)](https://www.youtube.com/@RencyQ)  
-*Support local tech innovations in marine conservation and mobile development!*
+[![AquaLex Demo Video](https://img.youtube.com/vi/NW0AEdISUxo/0.jpg)](https://youtu.be/NW0AEdISUxo?si=QPPNf5oHbQldsRP3)
 
 ## Project Information
 
