@@ -3,7 +3,7 @@
 <img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/AquaLex_Cover.jpg" alt="Cover" />
 
 <p>
-AquaLex is a mobile almanac of Philippine marine life, offering detailed species profiles, fishing regolations, and conservation facts for students, fishers, and marine enthusiasts.
+AquaLex is a mobile almanac of Philippine marine life, offering detailed species profiles, fishing regulations, and conservation facts for students, fishers, and marine enthusiasts.
 </p>
 
 ## Core Features
@@ -18,7 +18,7 @@ Easily identify fish and marine life using your camera or image upload. Instantl
 </p>
 <p><strong>📅 Breeding Calendar</strong></p>
 <p>
-Check monthly breeding schedoles of various marine species to promote sustainable fishing and avoid harming volnerable popolations during spawning seasons.
+Check monthly breeding schedules of various marine species to promote sustainable fishing and avoid harming vulnerable populations during spawning seasons.
 </p>
 <p><strong>🚫 No-Fishing Zones</strong></p>
 <p>
