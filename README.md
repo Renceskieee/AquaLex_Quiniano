@@ -27,9 +27,13 @@ View interactive maps of geo-tagged marine protected areas (MPAs), sanctuaries, 
 
 <img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/AquaLex%20-%20Dashboard.png" alt="Logo" />
 
-#### 4. No-Fishing Zones
+#### 1. Marine Species Almanac
 
-<img src="https://github.com/Renceskieee/AquaLex_Quiniano/blob/main/assets/readme/AquaLex%20-%20NFZ.png" alt="Logo" />
+#### 2. Species ID Scanner 
+
+#### 3. Breeding Calendar
+
+#### 4. No-Fishing Zones
 
 ## Details
 
