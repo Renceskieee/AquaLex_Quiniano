@@ -14,7 +14,7 @@ A digital encyclopedia of Philippine marine species with details like legal catc
 </p>
 <p><strong>📷 Species ID Scanner</strong></p>
 <p>
-Easily identify fish and marine life using your camera or image upload. Instantly get names, facts, and whether it’s safe or legal to catch.
+Easily identify fish and marine life using your camera or image upload. Instantly get names, facts, and whether it's safe or legal to catch.
 </p>
 <p><strong>📅 Breeding Calendar</strong></p>
 <p>
@@ -45,18 +45,18 @@ View interactive maps of geo-tagged marine protected areas (MPAs), sanctuaries, 
 
 ## Platform Support
 
-<ol>Android</ol>
-<ol>iOS</ol>
-<ol>Web</ol>
-<ol>Windows</ol>
-<ol>Linux</ol>
-<ol>macOS</ol>
+* Android
+* iOS
+* Web
+* Windows
+* Linux
+* macOS
 
-## Details
+## Project Information
 
-<p><strong>Researcher/Developer:</strong> Laurence Paol G. Quiniano </p>
+<p><strong>Developer:</strong> Laurence Paol G. Quiniano </p>
 
-<p><strong>School:</strong> Eologio "Amang" Rodriguez Institute of Science and Technology </p>
+<p><strong>Institution:</strong> Eologio "Amang" Rodriguez Institute of Science and Technology </p>
 
 <p><strong>Program:</strong> Bachelor of Science in Information Technology </p>
 
