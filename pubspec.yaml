@@ -39,8 +39,6 @@ flutter:
     - assets/icons/
     - assets/fonts/
     - assets/data/marine_species.csv
-    - assets/data/marine_species_model.tflite
-    - assets/data/labels.txt
   fonts:
     - family: Arturo
       fonts:
